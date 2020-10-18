@@ -1,0 +1,6 @@
+[submodule "UnityIgnore~/ImGui.NET"]
+	path = UnityIgnore~/ImGui.NET
+	url = https://github.com/mellinoe/ImGui.NET.git
+[submodule "UnityIgnore~/imgui"]
+	path = UnityIgnore~/imgui
+	url = https://github.com/ocornut/imgui
